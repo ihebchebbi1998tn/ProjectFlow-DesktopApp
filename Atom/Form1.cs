@@ -121,19 +121,13 @@ namespace Atom
             this.Hide();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
 
-        }
 
         private void gunaButton4_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void gunaPictureBox2_Click(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }
